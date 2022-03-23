@@ -184,7 +184,7 @@ nav a:hover {
     }
 ```
 
-### Kemudian tambahkan tag (<link>) untuk merujuk file css yang sudah dibuat pada bagian (<head>)
+### Kemudian tambahkan tag link untuk merujuk file css yang sudah dibuat pada bagian head
 
 ```HTML
 <!-- menyisipkan css eksternal -->
